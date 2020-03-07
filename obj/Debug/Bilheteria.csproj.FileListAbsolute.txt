@@ -1,0 +1,29 @@
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.csprojAssemblyReference.cache
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.Form1.resources
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.Properties.Resources.resources
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.csproj.GenerateResource.cache
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.csproj.CoreCompileInputs.cache
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\bin\Debug\Bilheteria.exe.config
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\bin\Debug\Bilheteria.exe
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\bin\Debug\Bilheteria.pdb
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.exe
+C:\Users\CTNoite\Documents\Miguel 1ND\C# FPOO\POO\Bilheteria\obj\Debug\Bilheteria.pdb
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\bin\Debug\Bilheteria.exe.config
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\bin\Debug\Bilheteria.exe
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\bin\Debug\Bilheteria.pdb
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.csprojAssemblyReference.cache
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.Form1.resources
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.Properties.Resources.resources
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.csproj.GenerateResource.cache
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.csproj.CoreCompileInputs.cache
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.exe
+C:\Users\luizm\Desktop\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.pdb
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\bin\Debug\Bilheteria.exe.config
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\bin\Debug\Bilheteria.exe
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\bin\Debug\Bilheteria.pdb
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.csprojAssemblyReference.cache
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.Form1.resources
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.Properties.Resources.resources
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.csproj.GenerateResource.cache
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.exe
+C:\Users\luizm\Desktop\SENAI\SENAI_1ºSEM\VisualStudio C#\POO\Bilheteria\obj\Debug\Bilheteria.pdb
